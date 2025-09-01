@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\simuladormemoriacache\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|solutionrelative:simuladormemoriacache\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|c:\\users\\fernando felipe\\source\\repos\\simuladormemoriacache\\simuladormemoriacache\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|solutionrelative:simuladormemoriacache\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|c:\\users\\fernando felipe\\source\\repos\\simuladormemoriacache\\simuladormemoriacache\\utilidades\\mutiplicadornumericupdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|solutionrelative:simuladormemoriacache\\utilidades\\mutiplicadornumericupdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|c:\\users\\fernando felipe\\source\\repos\\simuladormemoriacache\\simuladormemoriacache\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|solutionrelative:simuladormemoriacache\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|c:\\users\\fernando felipe\\source\\repos\\simuladormemoriacache\\simuladormemoriacache\\simuladormemoriacache.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F31035BC-29B3-4C5A-ADD9-236DAEC0E81E}|SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj|solutionrelative:simuladormemoriacache\\simuladormemoriacache.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MutiplicadorNumericUpDown.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\Utilidades\\MutiplicadorNumericUpDown.cs",
+              "RelativeDocumentMoniker": "SimuladorMemoriaCache\\Utilidades\\MutiplicadorNumericUpDown.cs",
+              "ToolTip": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\Utilidades\\MutiplicadorNumericUpDown.cs",
+              "RelativeToolTip": "SimuladorMemoriaCache\\Utilidades\\MutiplicadorNumericUpDown.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:59:52.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimuladorMemoriaCache",
+              "DocumentMoniker": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj",
+              "RelativeDocumentMoniker": "SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj",
+              "ToolTip": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj",
+              "RelativeToolTip": "SimuladorMemoriaCache\\SimuladorMemoriaCache.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T21:31:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SimuladorMemoriaCache\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\Form1.Designer.cs",
+              "RelativeToolTip": "SimuladorMemoriaCache\\Form1.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:25:16.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\Form1.cs",
+              "RelativeDocumentMoniker": "SimuladorMemoriaCache\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\Form1.cs",
+              "RelativeToolTip": "SimuladorMemoriaCache\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:24:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\Form1.cs",
+              "RelativeDocumentMoniker": "SimuladorMemoriaCache\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fernando Felipe\\source\\repos\\SimuladorMemoriaCache\\SimuladorMemoriaCache\\Form1.cs [Projeto]",
+              "RelativeToolTip": "SimuladorMemoriaCache\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:01:31.086Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
