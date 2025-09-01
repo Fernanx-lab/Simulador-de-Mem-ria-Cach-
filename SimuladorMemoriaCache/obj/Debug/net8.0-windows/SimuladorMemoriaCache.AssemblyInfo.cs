@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladorMemoriaCache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8559ec83025768b18b2a5aa1d027f03bfd31b148")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0463e2601616f9d9652c9e5ff0c70dfc54be1b5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladorMemoriaCache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladorMemoriaCache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

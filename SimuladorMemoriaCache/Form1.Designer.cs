@@ -34,8 +34,10 @@ namespace SimuladorMemoriaCache
             udTamanhoMemoriaCache = new MutiplicadorNumericUpDown();
             groupBox1 = new GroupBox();
             label2 = new Label();
+            numericUpDown1 = new NumericUpDown();
             ((System.ComponentModel.ISupportInitialize)udTamanhoMemoriaCache).BeginInit();
             groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -60,6 +62,7 @@ namespace SimuladorMemoriaCache
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(numericUpDown1);
             groupBox1.Controls.Add(label2);
             groupBox1.Controls.Add(udTamanhoMemoriaCache);
             groupBox1.Controls.Add(label1);
@@ -75,16 +78,23 @@ namespace SimuladorMemoriaCache
             label2.AutoSize = true;
             label2.Location = new Point(7, 114);
             label2.Name = "label2";
-            label2.Size = new Size(302, 25);
+            label2.Size = new Size(245, 25);
             label2.TabIndex = 3;
-            label2.Text = "Tamanho desejado da memória ram:";
+            label2.Text = "Tamanho do bloco (palavras):";
+            // 
+            // numericUpDown1
+            // 
+            numericUpDown1.Location = new Point(365, 114);
+            numericUpDown1.Name = "numericUpDown1";
+            numericUpDown1.Size = new Size(163, 31);
+            numericUpDown1.TabIndex = 4;
             // 
             // frmPrincipal
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlDarkDark;
-            ClientSize = new Size(1580, 791);
+            ClientSize = new Size(1580, 900);
             Controls.Add(groupBox1);
             ForeColor = SystemColors.Control;
             Name = "frmPrincipal";
@@ -93,6 +103,7 @@ namespace SimuladorMemoriaCache
             ((System.ComponentModel.ISupportInitialize)udTamanhoMemoriaCache).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ResumeLayout(false);
         }
 
@@ -101,5 +112,6 @@ namespace SimuladorMemoriaCache
         private MutiplicadorNumericUpDown udTamanhoMemoriaCache;
         private GroupBox groupBox1;
         private Label label2;
+        private NumericUpDown numericUpDown1;
     }
 }
